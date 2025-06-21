@@ -1,5 +1,5 @@
-# jotham-kipchumba
-  # 👋 Hi, I'm Jotham Kipchumba
+
+  # 👋 Hi, I'm JothamKipchumba
 
 **Web 2 & Web 3 Developer**  
 🌍 Based in Nakuru, Kenya
