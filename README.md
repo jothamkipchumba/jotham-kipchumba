@@ -1,10 +1,27 @@
 # jotham-kipchumba
-  My name is jotham kipchumba
-   web 2 & web 3 developer,
+  # 👋 Hi, I'm Jotham Kipchumba
 
-i am based in nakuru
-contact me at jothamkipchumba119@gmail.com
-i'm learning Reactjs, node js 
-lets collaborate on cool projects 
-quote: Engineering the future one step at a time 
-   
+**Web 2 & Web 3 Developer**  
+🌍 Based in Nakuru, Kenya
+
+---
+
+## 🚀 About Me
+
+- Passionate about building modern web applications and exploring blockchain technologies.
+- Currently learning **React.js** and **Node.js**.
+- Always open to collaborating on exciting and meaningful projects.
+
+## 📫 Contact
+
+- Email: [jothamkipchumba119@gmail.com](mailto:jothamkipchumba119@gmail.com)
+
+## 💡 Let's Connect
+
+- Interested in tech, open-source, and community-driven projects.
+- Let’s engineer the future, one step at a time!
+
+---
+
+> "Engineering the future, one step at a time."
+
